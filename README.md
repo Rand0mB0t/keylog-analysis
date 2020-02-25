@@ -23,7 +23,7 @@ These are the question that I am aiming to answer
 	- Generate visuals for my active sessions in a day - ( Define what do you call a visual )
 	- What is the average time of the session ? 
 		- WORKDAYS on MON - THU and on FRI (~ bcoz of change in work timings)
-		- WEEKDAYS Sat and Sun
+		- WEEKENDS Sat and Sun
 	- Keeping sessions in mind
       - Keeping sessions in mind , What is (by far) the first key that I press ?
       - find average typing speed 
